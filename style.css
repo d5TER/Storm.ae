@@ -1,0 +1,14 @@
+body {
+    background-color: #0f1b2a;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.application {
+    border: 1px solid #2a3b4c;
+    padding: 15px;
+    margin: 10px;
+    background-color: #182738;
+    border-radius: 8px;
+}
